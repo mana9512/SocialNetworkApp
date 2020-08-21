@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://mana12:mana12@devconnector-kx7py.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtToken":"mysecrettoken"
+}
